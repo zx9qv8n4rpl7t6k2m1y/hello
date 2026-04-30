@@ -64,7 +64,7 @@ var progressBarFull  = document.querySelector("#unity-progress-bar-full");
 var spinner          = document.querySelector('.spinner');
 
 loadingCover.style.display = "";
-document.body.style.backgroundImage    = "url('https://cdn.jsdelivr.net/gh/ftbaldana/hello@main/background.jpg')";
+document.body.style.backgroundImage    = "url('https://cdn.jsdelivr.net/gh/ftbaldana/hello@main/background.png')";
 document.body.style.backgroundPosition = "center";
 document.body.style.backgroundRepeat   = "no-repeat";
 document.body.style.backgroundSize     = "cover";
