@@ -35,7 +35,7 @@
 /* ============================================================
    CONFIG — CDN adresini doldurun
    ============================================================ */
-var CDN        = "https://cdn.jsdelivr.net/gh/ftbaldana/hello@126c40d/Build";   /* <-- degistir */
+var CDN        = "https://cdn.jsdelivr.net/gh/ftbaldana/hello@c7a28b7/Build";   /* <-- degistir */
 var DATA_PARTS = 4;   /* 30.5MB / 8MB = 4 part */
 
 var PREFIX   = "TPG_TsunamiBrainrotsOnline_V06-5";
